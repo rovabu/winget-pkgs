@@ -1,0 +1,18 @@
+Id: Adobe.FlashPlayerPPAPI
+Name: AdobeFlashPlayerPPAPI
+AppMoniker: adobe.flash.player.ppapi
+Version: 32.0.0.371
+Publisher: Adobe
+Author: Adobe
+License: Adobe General Terms of Use
+LicenseUrl: https://www.adobe.com/legal/terms.html
+MinOSVersion: 10.0.0.0
+Homepage: https://www.adobe.com/products/flashplayer.html
+Tags: "adobeflashplayerppapi"
+InstallerType: msi
+Installers: 
+  - Arch: x64
+    Url: https://fpdownload.macromedia.com/get/flashplayer/pdc/32.0.0.371/install_flash_player_32_ppapi.msi
+    Sha256: 61e7f588ff47bcef253e46df6e4ff3d52d1beccd98199320769c4d07bda36437
+    Scope: user
+   
